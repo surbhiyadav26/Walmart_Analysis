@@ -3,6 +3,15 @@
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
   This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
+## Summary and Insights
+- Cleaned and transformed Walmart sales data using Python and connected it with MySQL for advanced analysis.
+  
+- Wrote complex SQL queries to uncover insights, such as most transactions done via **credit cards** and peak sales in the afternoon across branches.
+  
+- Identified **Fashion Accessories** and **Home & Lifestyle** as the most profitable categories, with **higher-rated products** yielding **higher profit margins**.
+  
+- Analyzed sales performance by branch, city, and payment method to support data-driven business decisions.
+
 ### Project Steps:
 #### 1. Set Up the Environment
 - Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
